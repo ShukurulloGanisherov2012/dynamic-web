@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Plus+Jakarta+Sans:ital,wght@0,700;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+:root{
+    --neutral-grey:#666ca3;
+    --neutral-dark:#13183f;
+    --gray-color:#83869a;
+    --dark-pink:#f74780;
+    --light-pink:#ffa7c3;
+    --white:#fff;
+    --sunset-gradient: linear-gradient(#f02aa6, #ff6f48);
+    --night-gradient:linear-gradient(#4851ff, #f02aa6);
+}
